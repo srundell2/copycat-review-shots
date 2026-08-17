@@ -14,13 +14,6 @@
     "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/c3a79a8a.png"
   },
   {
-    "reviewId": "6cdd14af",
-    "section": "draw",
-    "lesson": "parrot",
-    "version": "parrot-v2",
-    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/6cdd14af.png"
-  },
-  {
     "reviewId": "cef7e62d",
     "section": "draw",
     "lesson": "motorcycle",
@@ -33,5 +26,12 @@
     "lesson": "octopus",
     "version": "octopus-v3",
     "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/c70112e0.png"
+  },
+  {
+    "reviewId": "7608f0b5",
+    "section": "draw",
+    "lesson": "whale",
+    "version": "whale-v4",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/7608f0b5.png"
   }
 ]
