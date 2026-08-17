@@ -7,13 +7,6 @@
     "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/506c3ead.png"
   },
   {
-    "reviewId": "cef7e62d",
-    "section": "draw",
-    "lesson": "motorcycle",
-    "version": "motorcycle-v3",
-    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/cef7e62d.png"
-  },
-  {
     "reviewId": "c70112e0",
     "section": "draw",
     "lesson": "octopus",
@@ -33,5 +26,12 @@
     "lesson": "flower",
     "version": null,
     "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/7d273308.png"
+  },
+  {
+    "reviewId": "5b4deb4b",
+    "section": "beads",
+    "lesson": "flower",
+    "version": "flower-v3",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/5b4deb4b.png"
   }
 ]
