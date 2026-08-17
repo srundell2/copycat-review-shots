@@ -1,0 +1,37 @@
+[
+  {
+    "reviewId": "abac0da7",
+    "section": "draw",
+    "lesson": "coral",
+    "version": "coral-v3",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/abac0da7.png"
+  },
+  {
+    "reviewId": "60414be5",
+    "section": "comic",
+    "lesson": "dog",
+    "version": null,
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/60414be5.png"
+  },
+  {
+    "reviewId": "506c3ead",
+    "section": "beads",
+    "lesson": "ring",
+    "version": "ring-v2",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/506c3ead.png"
+  },
+  {
+    "reviewId": "c3a79a8a",
+    "section": "beads",
+    "lesson": "ring",
+    "version": "ring-v3",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/c3a79a8a.png"
+  },
+  {
+    "reviewId": "60f45703",
+    "section": "planks",
+    "lesson": "house",
+    "version": "house-v3",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/60f45703.png"
+  }
+]
