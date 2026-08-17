@@ -1,5 +1,12 @@
 [
   {
+    "reviewId": "73920854",
+    "section": "planks",
+    "lesson": "bridge",
+    "version": null,
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/73920854.png"
+  },
+  {
     "reviewId": "506c3ead",
     "section": "beads",
     "lesson": "ring",
@@ -26,12 +33,5 @@
     "lesson": "flower",
     "version": null,
     "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/7d273308.png"
-  },
-  {
-    "reviewId": "5b4deb4b",
-    "section": "beads",
-    "lesson": "flower",
-    "version": "flower-v3",
-    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/5b4deb4b.png"
   }
 ]
