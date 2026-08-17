@@ -1,12 +1,5 @@
 [
   {
-    "reviewId": "60414be5",
-    "section": "comic",
-    "lesson": "dog",
-    "version": null,
-    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/60414be5.png"
-  },
-  {
     "reviewId": "506c3ead",
     "section": "beads",
     "lesson": "ring",
@@ -33,5 +26,12 @@
     "lesson": "parrot",
     "version": "parrot-v2",
     "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/6cdd14af.png"
+  },
+  {
+    "reviewId": "cef7e62d",
+    "section": "draw",
+    "lesson": "motorcycle",
+    "version": "motorcycle-v3",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/cef7e62d.png"
   }
 ]
