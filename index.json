@@ -7,13 +7,6 @@
     "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/506c3ead.png"
   },
   {
-    "reviewId": "c3a79a8a",
-    "section": "beads",
-    "lesson": "ring",
-    "version": "ring-v3",
-    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/c3a79a8a.png"
-  },
-  {
     "reviewId": "cef7e62d",
     "section": "draw",
     "lesson": "motorcycle",
@@ -33,5 +26,12 @@
     "lesson": "dog",
     "version": "dog-v9",
     "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/7b7d00b0.png"
+  },
+  {
+    "reviewId": "7d273308",
+    "section": "beads",
+    "lesson": "flower",
+    "version": null,
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/7d273308.png"
   }
 ]
