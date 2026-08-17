@@ -1,12 +1,5 @@
 [
   {
-    "reviewId": "abac0da7",
-    "section": "draw",
-    "lesson": "coral",
-    "version": "coral-v3",
-    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/abac0da7.png"
-  },
-  {
     "reviewId": "60414be5",
     "section": "comic",
     "lesson": "dog",
@@ -33,5 +26,12 @@
     "lesson": "house",
     "version": "house-v3",
     "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/60f45703.png"
+  },
+  {
+    "reviewId": "6cdd14af",
+    "section": "draw",
+    "lesson": "parrot",
+    "version": "parrot-v2",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/6cdd14af.png"
   }
 ]
