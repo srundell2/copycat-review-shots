@@ -1,37 +1,30 @@
 [
   {
-    "reviewId": "73920854",
+    "reviewId": "04d5b987",
+    "section": "clay",
+    "lesson": "egg",
+    "version": "egg-v3",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/04d5b987.png"
+  },
+  {
+    "reviewId": "bd8f652b",
     "section": "planks",
     "lesson": "bridge",
-    "version": null,
-    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/73920854.png"
+    "version": "bridge-v3",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/bd8f652b.png"
   },
   {
-    "reviewId": "506c3ead",
-    "section": "beads",
-    "lesson": "ring",
-    "version": "ring-v2",
-    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/506c3ead.png"
-  },
-  {
-    "reviewId": "c70112e0",
+    "reviewId": "6475542b",
     "section": "draw",
     "lesson": "octopus",
-    "version": "octopus-v3",
-    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/c70112e0.png"
+    "version": "octopus-v5",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/6475542b.png"
   },
   {
-    "reviewId": "7b7d00b0",
-    "section": "comic",
-    "lesson": "dog",
-    "version": "dog-v9",
-    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/7b7d00b0.png"
-  },
-  {
-    "reviewId": "7d273308",
-    "section": "beads",
-    "lesson": "flower",
-    "version": null,
-    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/7d273308.png"
+    "reviewId": "bbf739a8",
+    "section": "planks",
+    "lesson": "castle",
+    "version": "castle-v9",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/bbf739a8.png"
   }
 ]
