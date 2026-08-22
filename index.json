@@ -26,5 +26,12 @@
     "lesson": "castle",
     "version": "castle-v9",
     "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/bbf739a8.png"
+  },
+  {
+    "reviewId": "f041e912",
+    "section": "draw",
+    "lesson": "elephant",
+    "version": "elephant-v1",
+    "imageUrl": "https://raw.githubusercontent.com/srundell2/copycat-review-shots/main/f041e912.png"
   }
 ]
